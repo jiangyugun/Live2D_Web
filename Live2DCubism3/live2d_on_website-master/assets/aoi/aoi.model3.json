@@ -1,0 +1,51 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "aoi.moc3",
+		"Textures": [
+			"aoi.4096/texture_00.png"
+		],
+		"Physics": "aoi.physics3.json",
+		"DisplayInfo": "aoi.cdi3.json",
+		"Motions": {
+			"": [
+				{
+					"File": "motions/angry.motion3.json"
+				},
+				{
+					"File": "motions/confusion.motion3.json"
+				},
+				{
+					"File": "motions/cry.motion3.json"
+				},
+				{
+					"File": "motions/heart.motion3.json"
+				},
+				{
+					"File": "motions/news.motion3.json"
+				},
+				{
+					"File": "motions/shy.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"PARAM_EYE_L_OPEN",
+				"PARAM_EYE_R_OPEN"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"PARAM_MOUTH_OPEN_Y"
+			]
+		}
+	],
+	"HitAreas": []
+}
