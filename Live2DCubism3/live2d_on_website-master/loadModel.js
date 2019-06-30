@@ -282,7 +282,7 @@ function loadCompleteHandler(){
 //简单发送AJAX异步请求读取json文件
 function loadModel(){
     //随机模型，如果想指定模型可以将随机值改为指定参数，或直接传指定模型名
-    var modelName =  modelNames[Math.floor(Math.random() * modelNames.length )];
+    //var modelName =  modelNames[Math.floor(Math.random() * modelNames.length )];
     //拼接路径
     //如果model3的文件形如baseModelPath/xxx/xxx.model3.json则下面不用修改，否则按照文件路径进行修改
     //modelPath =  baseModelPath + modelName + "/" + modelName + ".model3.json";
