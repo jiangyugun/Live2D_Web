@@ -1,0 +1,25 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.moc",
+	"textures":[
+		"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.2048/texture_00.png",
+		"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.2048/texture_01.png",
+		"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.2048/texture_02.png",
+		"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.2048/texture_03.png",
+		"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.2048/texture_04.png",
+		"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.2048/texture_05.png",
+		"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.2048/texture_06.png",
+		"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.2048/texture_07.png"
+	],
+	"motions":{
+		"":[
+			{"file":"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/motions/angry.mtn"},
+			{"file":"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/motions/nervous.mtn"},
+			{"file":"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/motions/nod.mtn"},
+			{"file":"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/motions/sad.mtn"},
+			{"file":"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/motions/speechless.mtn"},
+			{"file":"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/motions/sweat.mtn"}
+		]
+	},
+	"physics":"D:/Steam/steamapps/common/FaceRig/Mod/VP/PC_Common/Objects/juingong/juingong.physics.json"
+}

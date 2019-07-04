@@ -1,0 +1,25 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"juingong.moc",
+	"textures":[
+		"juingong.2048/texture_00.png",
+		"juingong.2048/texture_01.png",
+		"juingong.2048/texture_02.png",
+		"juingong.2048/texture_03.png",
+		"juingong.2048/texture_04.png",
+		"juingong.2048/texture_05.png",
+		"juingong.2048/texture_06.png",
+		"juingong.2048/texture_07.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motions/angry.mtn"},
+			{"file":"motions/nervous.mtn"},
+			{"file":"motions/nod.mtn"},
+			{"file":"motions/sad.mtn"},
+			{"file":"motions/speechless.mtn"},
+			{"file":"motions/sweat.mtn"}
+		]
+	},
+	"physics":"juingong.physics.json"
+}
