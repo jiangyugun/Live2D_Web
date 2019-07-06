@@ -1,7 +1,8 @@
 #landlord {
     user-select: none;
     position: fixed;
-    left: 30px;
+    /*left: 1600px;*/
+    right: 30px;
     bottom: 0;
     width: 280px;
     height: 320px;
@@ -9,6 +10,7 @@
     font-size: 0;
     transition: all .3s ease-in-out;
 }
+
 
 #live2d {
     position: relative;
